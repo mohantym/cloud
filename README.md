@@ -16,7 +16,7 @@ environment to distributed training/tuning on Cloud.
 
 #### Requirements
 
--   Python >= 3.6
+-   Python >= 3.7
 -   [A Google Cloud project](https://cloud.google.com/ai-platform/docs/getting-started-keras#set_up_your_project)
 -   An
     [authenticated GCP account](https://cloud.google.com/ai-platform/docs/getting-started-keras#authenticate_your_gcp_account)
